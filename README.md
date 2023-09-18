@@ -1,2 +1,2 @@
 # PowerBI
-## [Detailed step-by-step guide](https://www.geeksforgeeks.org/power-bi-tutorial/?ref=lbp)
+## [Detailed step-by-step guide](https://learn.microsoft.com/en-us/certifications/exams/pl-300/)
